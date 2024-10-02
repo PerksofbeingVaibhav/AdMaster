@@ -1,5 +1,9 @@
 # ADMASTER AI
 
+## Project Status: In Development
+ADMASTER AI is currently in the development phase. We are actively building and refining core features, and more functionalities will be introduced in upcoming versions. Contributions and feedback are welcome as we shape the future of AI-powered ad creation.
+
+
 ## Overview
 ADMASTER AI is an innovative AI-powered platform designed to revolutionize the way businesses create and scale ad creatives. Our mission is to help companies elevate their advertising strategies by using cutting-edge AI technology to generate high-performing and audience-engaging ad content.
 
